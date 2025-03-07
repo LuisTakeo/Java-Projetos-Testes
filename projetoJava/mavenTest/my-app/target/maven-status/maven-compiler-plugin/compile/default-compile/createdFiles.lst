@@ -1,0 +1,5 @@
+com/rangers/model/UserModel.class
+com/rangers/mapper/UserMapperImpl.class
+com/rangers/mapper/UserMapper.class
+com/rangers/app/App.class
+com/rangers/dto/UserDTO.class
